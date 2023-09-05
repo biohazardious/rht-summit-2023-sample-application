@@ -2,9 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/512px-HelloWorld.svg.png"
     ]
 kind: ConfigMap
 metadata:
